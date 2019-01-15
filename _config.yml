@@ -3,7 +3,7 @@ remote_theme: #mmistakes/so-simple-theme
 
 locale: en-US
 title: "Hi B0HO"
-description: "A simple Jekyll theme for words and pictures."
+description: "매일 공부하고 개발해봅시다."
 baseurl: 
 url: "https://b0ho.github.io"
 logo: "/images/so-simple-site-logo.png"
