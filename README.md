@@ -1,1 +1,1 @@
-# b0ho.github.io !!!
+# b0ho 블로그입니다.
